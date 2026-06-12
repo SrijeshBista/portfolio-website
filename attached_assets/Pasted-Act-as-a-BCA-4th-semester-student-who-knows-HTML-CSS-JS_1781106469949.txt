@@ -1,0 +1,83 @@
+Act as a BCA 4th semester student who knows 
+HTML, CSS, JS, Next.js, React, and SCSS.
+
+Build a professional portfolio website for 
+a frontend developer named [Srijesh Bista] using:
+- Next.js 14 (App Router)
+- SCSS modules for styling
+- Next.js API routes for backend
+- MongoDB for database
+- JWT for admin authentication
+
+THEME:
+- Dark background (#0a0a0a)
+- Accent color: electric blue (#2563eb)
+- Clean, modern, professional feel
+- Google Font: Inter
+
+SECTIONS TO BUILD:
+
+1. HEADER
+- Left: Navigation links (Home, About, Skills, Projects, Contact)
+- Center: Logo with name "DIGITAL NAME"
+- Right: "Contact Me" CTA button
+- Sticky on scroll
+- Mobile hamburger menu
+
+2. HERO SECTION
+- Full screen height
+- Bold headline: "I Help Brands Grow Online"
+- Subheading with role description
+- Two buttons: "View My Work" and "Hire Me"
+- Subtle animated background
+
+3. ABOUT ME SECTION
+- Profile photo on left
+- Name, bio, experience on right
+- Two columns layout
+- Download CV button
+
+4. SKILLS SECTION
+- Skills shown as clean cards
+- Categories: SEO, Social Media, 
+  Content Marketing, Paid Ads, Analytics
+- Show skill level visually
+
+5. PROJECTS SECTION
+- Grid layout (3 columns)
+- Each card: image, title, description, 
+  live link button
+- Hover effect on cards
+
+6. FOOTER
+- Logo, social links, copyright
+- Quick navigation links
+- Clean minimal design
+
+7. CONTACT FORM
+- Name, Email, Message fields
+- Submit saves to MongoDB
+- Success/error message shown
+
+8. ADMIN PANEL (/admin route)
+- Protected by JWT login
+- Admin can update:
+  * Profile picture
+  * Hero text
+  * About me text
+  * Add/edit/delete projects
+  * View contact form submissions
+- Simple clean dashboard UI
+
+ADDITIONAL REQUIREMENTS:
+- Fully responsive (mobile first)
+- Smooth scroll behavior
+- Page load animations
+- SEO meta tags
+- Clean folder structure with comments
+- Environment variables for sensitive data
+
+Give me the complete folder structure first, 
+then build each section one by one.
+
+can you replace profile url to drag and drop photo or directly upload on admin  and also add a login form for the admin only at first of the web page load show the ui with two option one is for viewer and one is for admin  and this is my old portfolioo replace it friom this Srijeshbista.com.np
